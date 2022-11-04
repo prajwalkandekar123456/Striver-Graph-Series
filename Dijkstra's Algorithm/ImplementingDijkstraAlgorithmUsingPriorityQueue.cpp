@@ -20,8 +20,8 @@ The source vertex is 0. Hence, the shortest
 distance of node 0 is 0 and the shortest 
 distance from node 1 is 9.*/
 
-// Time Complexity :
-// Space Complexity :
+// Time Complexity : ElogV
+// Space Complexity :O(N)
 
 #include<bits/stdc++.h>
 using namespace std;
