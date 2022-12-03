@@ -23,8 +23,8 @@ The four ways to get there in 7 minutes are:
 - 0  1  3  5  6
 */
 
-//Time Complexity :
-// Space Complexity:
+//Time Complexity : ElogV
+// Space Complexity: N * M
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
