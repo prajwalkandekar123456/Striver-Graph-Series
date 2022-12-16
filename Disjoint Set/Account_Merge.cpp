@@ -33,8 +33,8 @@ the answer [['Mary', 'mary@mail.com'],
 would still be accepted.
 */
 
-//Time complexity :
-// Space Complexity :
+//Time complexity : O(4 * alpha) == O(contant) + (n*m)
+// Space Complexity : O(N * M)
 
 #include <bits/stdc++.h>
 using namespace std;
